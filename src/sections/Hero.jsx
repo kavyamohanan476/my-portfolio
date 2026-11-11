@@ -21,7 +21,7 @@ function Hero() {
           </a>
 
           <a
-                href="/KAVYA-M-Resume.pdf"
+                href="/Kavya_Mohan.pdf"
                 download
                 className="secondary-btn"
                 >
